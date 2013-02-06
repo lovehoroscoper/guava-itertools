@@ -1,6 +1,6 @@
+bin/*
 *.class
-
-# Package Files #
-*.jar
+*.java._trace
+#*.jar
 *.war
 *.ear
